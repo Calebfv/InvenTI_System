@@ -4,6 +4,7 @@
 
 ## 🛠️ Tecnologías Utilizadas
 * **Frontend:** React.js para una interfaz de usuario dinámica y fluida.
+* **Maquetación:** HTML5 para una estructura semántica y sólida.
 * **Estilos:** CSS3 con un enfoque en diseño responsivo.
 * **Lenguaje Principal:** JavaScript (ES6+).
 * **Herramientas:** Git para control de versiones y CMD para automatización de tareas de sistema.
@@ -16,6 +17,8 @@
 ## 🔧 Configuración Local
 Para ejecutar este proyecto localmente, asegúrate de tener **Node.js** instalado y sigue estos pasos:
 
-1. **Instalar dependencias:**
-```bash
+# Instalar todo lo necesario
 npm install
+
+# Iniciar el proyecto
+npm start
