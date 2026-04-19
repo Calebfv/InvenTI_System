@@ -17,8 +17,6 @@
 ## 🔧 Configuración Local
 Para ejecutar este proyecto localmente, asegúrate de tener **Node.js** instalado y sigue estos pasos:
 
-# Instalar todo lo necesario
+1. **Instalar todo lo necesario:**
+```bash
 npm install
-
-# Iniciar el proyecto
-npm start
