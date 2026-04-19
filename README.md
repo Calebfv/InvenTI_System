@@ -18,4 +18,4 @@ Para ejecutar este proyecto localmente, asegúrate de tener **Node.js** instalad
 
 1. **Instalar dependencias:**
 ```bash
-npm installD
+npm install
