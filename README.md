@@ -1,22 +1,18 @@
-# 🚀 InvenTI System
+# 📦 InvenTI System (Case Study)
 
-**InvenTI System** es una solución integral de gestión diseñada para optimizar el control de inventarios y flujos de trabajo técnicos. El sistema se enfoca en la eficiencia operativa mediante una interfaz moderna y reactiva.
+> **🔒 Nota de confidencialidad:** El código fuente de esta aplicación es de carácter privado y propietario. Este repositorio únicamente documenta la arquitectura, el caso de uso y el impacto del sistema.
 
-## 🛠️ Tecnologías Utilizadas
-* **Frontend:** React.js para una interfaz de usuario dinámica y fluida.
-* **Maquetación:** HTML5 para una estructura semántica y sólida.
-* **Estilos:** CSS3 con un enfoque en diseño responsivo.
-* **Lenguaje Principal:** JavaScript (ES6+).
-* **Herramientas:** Git para control de versiones y CMD para automatización de tareas de sistema.
+---
 
-## 📦 Módulos del Sistema
-* **Gestión de Inventario:** Control detallado de entradas, salidas y existencias en tiempo real.
-* **Panel de Administración:** Visualización de métricas clave y estado del sistema.
-* **Módulos React:** Componentes reutilizables y escalables para un mantenimiento simplificado.
+## 🎯 Caso de Estudio
+Plataforma web centralizada para el control, gestión y auditoría de inventarios y activos en tiempo real.
 
-## 🔧 Configuración Local
-Para ejecutar este proyecto localmente, asegúrate de tener **Node.js** instalado y sigue estos pasos:
+### 🛠️ Tecnologías Utilizadas
+* **Backend:** Node.js, Express, JavaScript
+* **Frontend:** React.js
+* **Base de Datos:** MySQL
 
-1. **Instalar todo lo necesario:**
-```bash
-npm install
+---
+
+## 📩 Solicitud de información o Demo
+Para conocer más detalles sobre la arquitectura o agendar una demostración privada, puedes contactarme en **inventiwebcr@gmail.com**.
