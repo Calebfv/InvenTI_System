@@ -9,6 +9,22 @@
 
 ---
 
+## 💻 Interfaz y Módulos del Sistema
+
+### 1. Panel de Control & Métricas de Inventario
+Vista general interactiva que consolida métricas críticas en tiempo real: total de SKUs, estado de salud de stock (Normal, Bajo, Crítico), distribución por categorías y registro de actividades recientes.
+
+![Dashboard Overview](assets/dashboard-overview.png)
+
+---
+
+### 2. Kardex de Movimientos & Trazabilidad
+Módulo especializado para la auditoría de Entradas, Salidas y Traslados entre bodegas. Garantiza un control preciso sobre cantidades, saldos de stock, responsables y referencias de orden.
+
+![Kardex de Movimientos](assets/kardex-movements.png)
+
+---
+
 ## 🛠️ Stack Tecnológico
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mysql" alt="Tech Stack" />
