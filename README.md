@@ -58,7 +58,4 @@ El sistema opera bajo una arquitectura cliente-servidor acoplada mediante una AP
 2. **Servidor (Express):** Validación de datos, procesamiento de lógica de negocio y gestión de peticiones.
 3. **Persistencia (MySQL):** Modelado relacional normalizado para garantizar la integridad de los datos.
 
----
 
-## 📩 Contacto y Demostraciones
-Para consultas sobre la arquitectura o para solicitar una demostración privada del sistema funcional, puedes escribir a **inventiwebcr@gmail.com**.
