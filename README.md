@@ -1,61 +1,65 @@
 # 📦 InvenTI System (Case Study)
 
-> **🔒 Nota de confidencialidad:** El código fuente de esta aplicación es de carácter privado y propietario. Este repositorio documenta únicamente la arquitectura, el caso de uso y los módulos funcionales del sistema.
+> **🔒 Confidentiality Notice:** The source code of this application is private and proprietary. This repository documents only the architecture, case study, and functional modules of the system.
 
 ---
 
-## 🎯 Descripción General
-**InvenTI System** es una solución web Full Stack orientada al control, gestión y auditoría centralizada de inventarios y activos técnicos en tiempo real. Fue diseñada para sustituir el control manual en hojas de cálculo desactualizadas, resolviendo cuellos de botella en el registro de insumos, pérdidas de stock y falta de trazabilidad.
+## 🎯 Overview
+**InvenTI System** is a Full Stack web solution designed for centralized real-time control, management, and auditing of inventory and technical assets. It was built to replace manual, outdated spreadsheet tracking, resolving bottlenecks in supply registration, stock loss, and lack of traceability.
 
 ---
 
-## 💻 Interfaz y Módulos del Sistema
+## 💻 System Interface & Modules
 
-### 1. Panel de Control & Métricas de Inventario
-Vista general interactiva que consolida métricas críticas en tiempo real: total de SKUs, estado de salud de stock (Normal, Bajo, Crítico), distribución por categorías y registro de actividades recientes.
+### 1. Control Panel & Inventory Metrics
+Interactive overview consolidating critical metrics in real time: total SKUs, stock health status (Normal, Low, Critical), category distribution, and recent activity logs.
 
 ![Dashboard Overview](dashboard-overview.png)
 
 ---
 
-### 2. Kardex de Movimientos & Trazabilidad
-Módulo especializado para la auditoría de Entradas, Salidas y Traslados entre bodegas. Garantiza un control preciso sobre cantidades, saldos de stock, responsables y referencias de orden.
+### 2. Movements Kardex & Traceability
+Specialized module for auditing Inbound, Outbound, and Inter-warehouse Transfers. Ensures precise control over quantities, stock balances, responsible users, and order references.
 
-![Kardex de Movimientos](kardex-movements.png)
+![Kardex Movements](kardex-movements.png)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mysql" alt="Tech Stack" />
 </p>
 
-- **Backend:** Node.js, Express (API RESTful)
-- **Frontend:** React.js, HTML5, CSS3 (Diseño responsivo y modular)
-- **Base de Datos:** MySQL
-- **Control de Versiones:** Git / GitHub
+- **Backend:** Node.js, Express (RESTful API)
+- **Frontend:** React.js, HTML5, CSS3 (Responsive and modular design)
+- **Database:** MySQL
+- **Version Control:** Git / GitHub
 
 ---
 
-## 🚀 Módulos y Funcionalidades Principales
+## 🚀 Key Modules & Features
 
-### 1. Panel de Control & Métricas
-- Métricas consolidadas en tiempo real: Total de SKU, niveles de existencia y alertas de stock bajo.
-- Monitor de salud de inventario e historial de movimientos.
+### 1. Dashboard & Metrics
+- Consolidated real-time metrics: Total SKUs, stock levels, and low-stock alerts.
+- Inventory health monitor and activity log.
 
-### 2. Gestión de Activos e Inventario
-- Registro detallado de productos, categorías, estados y ubicaciones.
-- Control de entradas y salidas de stock con actualización inmediata de existencias.
+### 2. Asset & Inventory Management
+- Detailed registration of products, categories, statuses, and locations.
+- Inbound and outbound stock control with instant balance updates.
 
-### 3. Registro de Auditoría
-- Trazabilidad de operaciones para control interno de modificaciones de datos.
+### 3. Audit Log
+- Operational traceability for internal tracking of data modifications.
 
 ---
 
-## 🏗️ Arquitectura
-El sistema opera bajo una arquitectura cliente-servidor acoplada mediante una API RESTful:
-1. **Cliente (React):** Interfaz SPA optimizada para navegación fluida e interacción en tiempo real.
-2. **Servidor (Express):** Validación de datos, procesamiento de lógica de negocio y gestión de peticiones.
-3. **Persistencia (MySQL):** Modelado relacional normalizado para garantizar la integridad de los datos.
+## 🏗️ Architecture
+The system operates under a client-server architecture connected via a RESTful API:
+1. **Client (React):** SPA interface optimized for smooth navigation and real-time interaction.
+2. **Server (Express):** Data validation, business logic processing, and request management.
+3. **Persistence (MySQL):** Normalized relational data modeling to guarantee data integrity.
 
+---
+
+## 📩 Contact & Demos
+For architecture inquiries or to request a private demonstration of the functional system, you can write to **inventiwebcr@gmail.com**.
 
