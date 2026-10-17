@@ -58,8 +58,4 @@ The system operates under a client-server architecture connected via a RESTful A
 2. **Server (Express):** Data validation, business logic processing, and request management.
 3. **Persistence (MySQL):** Normalized relational data modeling to guarantee data integrity.
 
----
-
-## 📩 Contact & Demos
-For architecture inquiries or to request a private demonstration of the functional system, you can write to **inventiwebcr@gmail.com**.
 
